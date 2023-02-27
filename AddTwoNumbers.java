@@ -14,6 +14,8 @@ public class AddTwoNumbers {
 
         System.out.println("The sum of the two numbers is: " + sum);
 
+	System.out.println("This is the new line entered");
+
         scan.close();
     }
 }
